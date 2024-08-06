@@ -141,6 +141,68 @@ body {
 
 }
 
+/*Campanha 2*/
+
+.texto-inicial {
+  text-align: center;
+  color: #ff3131;
+  font-size:xx-large;
+  padding: 50px;
+
+}
+
+.img-campanhas {
+  
+  align-items: center;
+  margin: auto;
+  justify-content: center;
+  display: flex;
+  border-radius: 10px;
+  max-width: 100%;
+  width: 815px;
+  aspect-ratio: 16/6;
+  display: flex;
+}
+
+.texto-final {
+  color: #ff3131;
+  position: relative;
+  left: 33.5rem;
+  font-size: 20px;
+  
+  
+
+}
+
+.flex {
+  display: flex;
+
+}
+
+.tipo-sanguineo {
+  margin-left: 560px;
+  padding: 5px;
+  color: #ff3131;
+  font-size: 35px;
+
+
+}
+.links a {
+  text-decoration: none;
+  color: #ff3131;
+}
+
+.alinhar {
+  display: ;
+  align-items:  ;
+  text-align: ;
+}
+
+
+
+
+
+
 
 
 
